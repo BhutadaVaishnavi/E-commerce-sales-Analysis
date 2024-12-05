@@ -1,6 +1,7 @@
 **E-commerce sales Analysis**
 
-![Screenshot (39)](https://github.com/user-attachments/assets/7cacfdd2-8f21-4f64-8962-a087654b1bd5)
+![Screenshot (39)(1)(1)](https://github.com/user-attachments/assets/0a133af5-6067-4775-b131-6bb3aaba6a21)
+
 
 This Power BI dashboard gives a clear and easy-to-understand view of e-commerce sales. It shows the total number of orders (185.69K), items sold (209K), and total sales ($34.47M). 
 The sales trends from January 2019 to January 2020 highlight steady growth, with a peak in late 2019. Audio Devices are the top-selling category with 48K orders, followed by Charging Cables (43K) and Batteries (41K).
